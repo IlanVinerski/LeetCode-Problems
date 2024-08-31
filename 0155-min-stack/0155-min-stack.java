@@ -1,6 +1,6 @@
 class MinStack {
 
- public Stack<Integer> stac;
+    public Stack<Integer> stac;
     public Stack<Integer> minStac;
 
     public MinStack() {

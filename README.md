@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/IlanVinerski/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/IlanVinerski/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/IlanVinerski/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/IlanVinerski/LeetCode-Problems/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/IlanVinerski/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/IlanVinerski/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/IlanVinerski/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/IlanVinerski/LeetCode-Problems/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/IlanVinerski/LeetCode-Problems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/IlanVinerski/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/IlanVinerski/LeetCode-Problems/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -69,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/IlanVinerski/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/IlanVinerski/LeetCode-Problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/IlanVinerski/LeetCode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

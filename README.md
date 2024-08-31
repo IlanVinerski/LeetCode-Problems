@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/IlanVinerski/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/IlanVinerski/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/IlanVinerski/LeetCode-Problems/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/IlanVinerski/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/IlanVinerski/LeetCode-Problems/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/IlanVinerski/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

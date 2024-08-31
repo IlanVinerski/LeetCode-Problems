@@ -11,13 +11,16 @@
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
         
-        ListNode node = head;
-        while(node != null && node.next != null){
-            if(node.val == node.next.val)
-                node.next = node.next.next;
+        ListNode current = head;
+        while(current != null && current.next != null){
+            if(current.val == current.next.val)
+                current.next = current.next.next;
             else
-                node = node.next;
+                current = current.next;
         }
         return head;
     }
 }
+
+// Time: O(n) when n is the number of nodes in the list
+// Space: O(1)

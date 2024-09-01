@@ -10,7 +10,7 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        
+
         ListNode current = head;
         ListNode prev = null;
         ListNode temp;
@@ -24,3 +24,6 @@ class Solution {
         return prev;
     }
 }
+
+//Time: O(n) when n is the number of nodes
+//Place: O(1)
